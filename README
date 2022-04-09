@@ -1,3 +1,17 @@
+# bran: 
+  q, do i want to convert the books xml source into other formats?
+    of the formats available, am i interested in..
+      html? yea
+      pdf? less-so but some
+      ps? not sure if i know this format
+      txt? sorta yeah, i am guessing beautifulsoup does this sorta stuff?
+  a, i think so yeah, some of those seem useful and interesting
+
+progress
+  current task
+    reading INSTALL file, brb
+    
+
 LFS Book README
 
 This document is meant to instruct the user on how to convert the book's XML
